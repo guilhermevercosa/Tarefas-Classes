@@ -1,6 +1,7 @@
 /**
  * Está classe representa dados de um usuario em uma "rede social"
  * @author GuilhermeDiasVerçosa
+ * GitHub: https://github.com/guilhermevercosa/Tarefas-Classes
  */
 
 
@@ -56,6 +57,5 @@ public class Teste {
 }
 /**
  * Ajuda ai prof, eu juro que estou me dedicando <3
- * Onde encontrar o projeto:
- *
+ * GitHub: https://github.com/guilhermevercosa/Tarefas-Classes
  */
